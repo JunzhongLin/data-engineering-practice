@@ -1,3 +1,4 @@
+
 ## Exercise #2 - WebScraping and File Downloading with Python.
 
 In this second exercise you will practice your Python skills again,
